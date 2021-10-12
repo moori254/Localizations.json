@@ -1,7 +1,122 @@
 {
+  "6ef13e42-ad89-4d42-9480-546e0c04a411": {
+    "04dd491a-ab80-4573-8796-aed4e3a469e1": {
+      "1": "Housing Levy Payable",
+      "3": "f948e84d-b2d6-4466-be16-e40d761db660"
+    },
+    "163166cd-d772-4463-86be-a2020041deca": {
+      "1": "PAYE Payable",
+      "3": "f948e84d-b2d6-4466-be16-e40d761db660"
+    },
+    "16f6e488-e6ba-4654-bd10-f9f596ce0869": {
+      "1": "NSSF Payable",
+      "3": "f948e84d-b2d6-4466-be16-e40d761db660"
+    },
+    "183001c3-5dd6-4500-b98e-dbb5201ba203": {
+      "1": "Government Securities",
+      "3": "faf9df6d-e42c-4cd0-b440-8bfa2e9e28e5"
+    },
+    "2171eeb3-f5bc-4817-a9d2-e028f28692ca": {
+      "1": "Bank Loan 1",
+      "3": "b8b32fcf-ddab-45cf-9bf3-51cd6d8e9003"
+    },
+    "24cddced-1df1-4219-8681-f8d96aeb483a": {
+      "1": "NHIF Payable",
+      "3": "f948e84d-b2d6-4466-be16-e40d761db660"
+    },
+    "27259351-941f-444d-9435-02857bd10da8": {
+      "1": "Ordinary Share Capital",
+      "3": "9275ff4c-4cff-41d0-b7b5-f31c783f03d8"
+    },
+    "31285277-47bb-415a-bc2b-1d505f178e35": {
+      "1": "Dividends Payable",
+      "3": "f948e84d-b2d6-4466-be16-e40d761db660"
+    },
+    "50462a8f-346b-4382-a21d-b2fd2738652f": {
+      "1": "Fixed Deposits",
+      "3": "faf9df6d-e42c-4cd0-b440-8bfa2e9e28e5"
+    },
+    "526aa7be-95ee-4081-a509-a75f88b631fb": {
+      "1": "Income Tax Account",
+      "3": "f948e84d-b2d6-4466-be16-e40d761db660"
+    },
+    "96a79f2c-1af5-49df-a034-cfbe1fb6d8a2": {
+      "1": "Other Investments",
+      "3": "faf9df6d-e42c-4cd0-b440-8bfa2e9e28e5"
+    },
+    "b3e1862c-ec5b-4560-a058-f08dbae4fd4e": {
+      "1": "Shares",
+      "3": "faf9df6d-e42c-4cd0-b440-8bfa2e9e28e5"
+    },
+    "d9969dbc-cd9a-49ed-835d-bb0e63a10fb6": {
+      "1": "Debentures",
+      "3": "faf9df6d-e42c-4cd0-b440-8bfa2e9e28e5"
+    }
+  },
+  "6d4af96a-0959-4bb2-9160-fa825ec67c43": {
+    "6d4af96a-0959-4bb2-9160-fa825ec67c43": {
+      "3": "77f01bf4-9c03-49da-8d17-f36edb5cf8c8"
+    }
+  },
+  "f813a6c8-1ead-46bd-8911-f12714be193c": {
+    "f813a6c8-1ead-46bd-8911-f12714be193c": {
+      "11": 2
+    }
+  },
+  "4a0e8917-fee2-4033-9161-48dd513fdb73": {
+    "4a0e8917-fee2-4033-9161-48dd513fdb73": {
+      "3": "eec45f6d-316f-4ec4-955b-a40069fb4690"
+    }
+  },
+  "c03d1921-7a45-4eda-8742-a2d9082dcf4f": {
+    "77f01bf4-9c03-49da-8d17-f36edb5cf8c8": {
+      "1": "Current Assets, Loans and Advances",
+      "3": "4c05c221-ca57-4c7c-be62-115669302ed4",
+      "4": 6
+    },
+    "b8b32fcf-ddab-45cf-9bf3-51cd6d8e9003": {
+      "1": "Long Term Liability",
+      "3": "ed5a19f6-12c5-45cc-b4b7-4e79f7ef50bc"
+    },
+    "eec45f6d-316f-4ec4-955b-a40069fb4690": {
+      "1": "Fixed Assets – Non Current Assets",
+      "3": "4c05c221-ca57-4c7c-be62-115669302ed4",
+      "4": 1
+    },
+    "f948e84d-b2d6-4466-be16-e40d761db660": {
+      "1": "Current Liabilities",
+      "3": "ed5a19f6-12c5-45cc-b4b7-4e79f7ef50bc"
+    },
+    "faf9df6d-e42c-4cd0-b440-8bfa2e9e28e5": {
+      "1": "Investments",
+      "3": "4c05c221-ca57-4c7c-be62-115669302ed4",
+      "4": 5
+    }
+  },
+  "aa12d048-bfbd-47dc-a5b8-03e35c417996": {
+    "aa12d048-bfbd-47dc-a5b8-03e35c417996": {
+      "11": 3
+    }
+  },
+  "31d369e3-32c7-4bd2-bb83-9c1c58010c1a": {
+    "31d369e3-32c7-4bd2-bb83-9c1c58010c1a": {
+      "11": 4
+    }
+  },
+  "30c697fa-4196-438a-ab5a-1957478034b1": {
+    "30c697fa-4196-438a-ab5a-1957478034b1": {
+      "1": "VAT Control Account",
+      "3": "f948e84d-b2d6-4466-be16-e40d761db660"
+    }
+  },
+  "1408c33b-6284-4f50-9e31-48cbea21f3cf": {
+    "8af6c845-7c8f-406b-bff1-733260d8e133": {
+      "1": "MPesa Till Number XXXX"
+    }
+  },
   "38cf4712-6e95-4ce1-b53a-bff03edad273": {
     "38cf4712-6e95-4ce1-b53a-bff03edad273": {
-      "1": "Nederland"
+      "1": "Kenya"
     }
   },
   "dcb382dc-a4e0-4354-a845-b7d647f610f7": {
@@ -11,418 +126,549 @@
     }
   },
   "a56e89d1-7bee-4509-8b84-c9ebc3808b0c": {
-    "a56e89d1-7bee-4509-8b84-c9ebc3808b0c": {}
+    "a56e89d1-7bee-4509-8b84-c9ebc3808b0c": {
+      "1": "dd/MM/yyyy",
+      "4": "h:mm:ss tt",
+      "3": "CgEuEgEsGAM="
+    }
   },
-  "79f99d26-e43a-4ecb-a9c9-0774601a9b2e": {
-    "7ab0b0e3-58bc-45ad-bf1c-65a45b2f889f": {
-      "1": "2020-09-11T00:00:00",
-      "11": [
-        {
-          "18": 1000.0,
-          "20": "3a57686a-7ce6-43e7-aa2a-dc5e98ad931b"
-        }
-      ]
+  "a4ddb0e3-b207-4fee-aa01-f104b6c09932": {
+    "a4ddb0e3-b207-4fee-aa01-f104b6c09932": {
+      "19": 1
+    }
+  },
+  "73af4c68-c347-4088-8846-758f1e7bc5bb": {
+    "477058c0-7273-47a1-b6af-0db26c8d56f5": {
+      "1": "NSSF Employer Conribution",
+      "3": "15f371a7-c946-41ef-a59a-452c80948a2e",
+      "4": "16f6e488-e6ba-4654-bd10-f9f596ce0869"
+    },
+    "6b645edb-8b16-4286-a405-c88e9bd46394": {
+      "1": "Housing Development Levy",
+      "3": "04b360b8-994d-4a10-9f71-aa43f5ff382e",
+      "4": "04dd491a-ab80-4573-8796-aed4e3a469e1"
+    }
+  },
+  "0444eb18-6fc5-4d1f-be8b-c114da01832c": {
+    "0b88077c-41f1-49cf-b575-df222e05aeb2": {
+      "1": "PAYE",
+      "3": "163166cd-d772-4463-86be-a2020041deca"
+    },
+    "8af15098-0b79-48fd-9df7-22ee2b76723a": {
+      "1": "NHIF",
+      "3": "24cddced-1df1-4219-8681-f8d96aeb483a"
+    },
+    "9ba0dd17-be69-45cc-bb21-8992576df022": {
+      "1": "NSSF",
+      "3": "16f6e488-e6ba-4654-bd10-f9f596ce0869"
+    },
+    "bd6ec7ce-c10a-4d28-ba72-602bc5d30fb3": {
+      "1": "Housing Development Levy",
+      "3": "04dd491a-ab80-4573-8796-aed4e3a469e1"
+    }
+  },
+  "ab02f6ab-c91c-4fc2-b979-66a6682c200e": {
+    "1a307330-c122-4973-933d-20d4b9ed7300": {
+      "1": "Leave Travel Benefits",
+      "3": "adba3d91-f552-48f7-b990-f8ec4594267b"
+    },
+    "39558123-0ff2-40db-81fb-619acd0b14ae": {
+      "1": "Reimbursement of Medical Expenses",
+      "3": "47fc982d-526c-45d8-bf0f-f35385a924c6"
+    },
+    "3bd52d7c-6677-415f-809e-c4d7a956e8fc": {
+      "1": "Bonus",
+      "3": "5a3a20f5-6eb3-48dc-a799-5b3a8da8dbb7"
+    },
+    "48635afa-7884-4f20-836d-51ed64e2bfe4": {
+      "1": "Rent Expenses for Employees ",
+      "3": "80818379-35f2-4d10-847c-1f5c2fa7e698"
+    },
+    "c287b2a3-1c53-4d71-915a-2fa3434bc6cb": {
+      "1": "Basic Salary",
+      "3": "ac9aadc2-293e-4201-a185-b3e1c6bd54ef"
+    },
+    "e8aa69a6-e2d1-417f-9480-c2238a84ae15": {
+      "1": "Leave Encashment",
+      "3": "7be61e9f-6884-454e-b4a0-a34f26c3690f"
+    }
+  },
+  "26b9e4a5-ce10-4f30-94c7-23a1ca4428f9": {
+    "008fbef4-7b3b-44f6-871f-fdcb7bcd4155": {
+      "1": "Entertainment",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 9
+    },
+    "029f62bc-6075-4913-837c-d41b6e3fbac7": {
+      "1": "Realized Exchange Loss",
+      "3": "29f9e445-53e6-4418-8fc7-8204dc55341c"
+    },
+    "04b360b8-994d-4a10-9f71-aa43f5ff382e": {
+      "1": "Contribution to any Other Fund",
+      "3": "ac7176ec-0a05-4d33-b5de-cb65c76f1754",
+      "10": 8
+    },
+    "05e2b9a1-ba10-4eb1-9959-9c0d9555579a": {
+      "1": "Subsistence Allowance",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 23
+    },
+    "06c8a5e5-933d-4dac-be7e-f9b0eb61cd58": {
+      "1": "Power and Fuel",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 14
+    },
+    "0e2b3307-0903-41de-95cc-b92bf9bf05ce": {
+      "1": "Other Income (Part II Total of \"Total of Other Income\")",
+      "3": "15e2f5fe-9856-4ea7-a4ca-6191d580973a",
+      "10": 11
+    },
+    "0eba8e6b-37ce-4735-a5c2-f822c6cf03d4": {
+      "1": "Direct Expenses",
+      "3": "f0208755-3b7d-4eab-81b7-8576edb3fa52",
+      "10": 2
+    },
+    "1396b595-75bd-4b75-a6e7-f65d4f174e7a": {
+      "1": "Licenses and permits",
+      "3": "78d1b896-ed3d-432b-9b09-1430177f3aba"
+    },
+    "156e959f-6992-460f-b7e7-814ad7394a2d": {
+      "1": "Bad Debts Written Off",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 3
+    },
+    "15f371a7-c946-41ef-a59a-452c80948a2e": {
+      "1": "Contribution to Retirement Fund",
+      "3": "ac7176ec-0a05-4d33-b5de-cb65c76f1754",
+      "10": 7
+    },
+    "16687e85-ab33-4d8d-9df6-6461ab6a6d00": {
+      "1": "Repairs of Building",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 17
+    },
+    "1974b621-f04f-40da-9e28-88c03d1e0b70": {
+      "1": "Loss on Disposal of Assets",
+      "3": "d6317ca7-7085-4247-af39-e7412bdff75c",
+      "10": 2
+    },
+    "1a177220-0503-40f4-90a1-de37763debf0": {
+      "1": "Freight and Transport ",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 10
+    },
+    "1e2558af-693c-433e-ad89-14ad1d4912c5": {
+      "1": "Bank charges",
+      "3": "29f9e445-53e6-4418-8fc7-8204dc55341c"
+    },
+    "21890ad2-88db-4ed2-855f-9b2c37689c6e": {
+      "1": "Any Other Employment Cost",
+      "3": "ac7176ec-0a05-4d33-b5de-cb65c76f1754",
+      "10": 9
+    },
+    "2522b729-7d3f-4d7a-a94c-5815508bf414": {
+      "1": "Work Shop - Conference Expenses",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 27
+    },
+    "281cf92d-318f-4292-880c-7270c182e980": {
+      "1": "Bad Debts Recovered",
+      "3": "15e2f5fe-9856-4ea7-a4ca-6191d580973a",
+      "10": 3
+    },
+    "2de586c6-027a-4626-9167-2a4630ed7388": {
+      "1": "Indirect Wages",
+      "3": "3932ff08-c927-46ee-be3a-7cf4d6494553",
+      "10": 3
+    },
+    "355db7fd-85ad-4667-9766-f4fe247582be": {
+      "1": "Commitment Fees",
+      "3": "29f9e445-53e6-4418-8fc7-8204dc55341c"
+    },
+    "364ad9a6-5c11-46e1-af59-3e96fa45ac5a": {
+      "1": "Repairs of Machinery ",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 18
+    },
+    "398556bf-3bff-4142-a12a-6b4b8b4e364b": {
+      "1": "Gross Turnover of Profession / Consultancy Fees",
+      "3": "e7b52607-6784-455c-9611-92929f37bbc2"
+    },
+    "3aaef5e4-aa46-410c-8b26-6208657e2621": {
+      "1": "Raw Materials",
+      "3": "c507dd9d-0535-4224-8a6b-97b9605817f0"
+    },
+    "3c073340-408a-4d23-b865-0df99525671c": {
+      "1": "Donations",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 8
+    },
+    "3f1c37dc-a83d-4cf9-a5ec-f4b379ac5e81": {
+      "1": "Rent and Rates",
+      "3": "3932ff08-c927-46ee-be3a-7cf4d6494553",
+      "10": 1
+    },
+    "418562f2-7e2a-4fd2-afc2-7b2d07ad7dfc": {
+      "1": "Profit / Surplus on Disposal of Assets ",
+      "3": "15e2f5fe-9856-4ea7-a4ca-6191d580973a",
+      "10": 7
+    },
+    "43672e38-0c4c-4dc9-8150-f5d634f67036": {
+      "1": "Sales Promotion including Publicity (other than Advertisement)",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 19
+    },
+    "472c781f-30ff-4c80-8d2a-a57fb22a0039": {
+      "1": "Unrealized Exchange Loss",
+      "3": "29f9e445-53e6-4418-8fc7-8204dc55341c"
+    },
+    "47acd105-1846-43fe-b12a-bbd41a915441": {
+      "1": "Commission ",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 4
+    },
+    "47fc982d-526c-45d8-bf0f-f35385a924c6": {
+      "1": "Reimbursement of Medical Expenses",
+      "3": "ac7176ec-0a05-4d33-b5de-cb65c76f1754",
+      "10": 3
+    },
+    "4a15129d-2e46-4666-84cb-10f32306057d": {
+      "1": "Trading / Manufactured Goods  (finished goods)",
+      "3": "4a62acdc-e3c2-4963-9e96-e2fd514039d9"
+    },
+    "508801bc-1368-454f-ab77-42a3d3d09a12": {
+      "1": "Dividend ",
+      "3": "15e2f5fe-9856-4ea7-a4ca-6191d580973a",
+      "10": 1
+    },
+    "5612ba54-1934-4ba1-8228-d9ad87942a73": {
+      "1": "Dividend Declared",
+      "3": "6c701e06-578e-4b4d-a9d1-2197bbd43889"
+    },
+    "5a3a20f5-6eb3-48dc-a799-5b3a8da8dbb7": {
+      "1": "Bonus",
+      "3": "ac7176ec-0a05-4d33-b5de-cb65c76f1754",
+      "10": 2
+    },
+    "5e4eea84-181b-485f-a768-b5cdfa02245a": {
+      "1": "Audit Expenses",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 2
+    },
+    "608bb76a-6e61-4a97-8e18-3950e692968c": {
+      "1": "Local Purchases ",
+      "3": "a58ff9b9-f3f8-4590-b04a-39c1a18db9e3",
+      "10": 1
+    },
+    "60ebb48a-18ba-4ca1-8c9b-19b68b073842": {
+      "1": "Income Tax Expense",
+      "3": "91ceb6dc-c0cc-4fdd-b36f-67e3907591c2"
+    },
+    "68aa2b8e-1c83-4d6f-a5c0-759fe53bc3cc": {
+      "1": "Unrealized Exchange Gain",
+      "3": "15e2f5fe-9856-4ea7-a4ca-6191d580973a",
+      "10": 9
+    },
+    "771f9f19-d71e-47e6-991b-483bc4bc68ec": {
+      "1": "Royalties ",
+      "3": "15e2f5fe-9856-4ea7-a4ca-6191d580973a",
+      "10": 5
+    },
+    "784240bb-af5d-45e5-8282-0b3f6f97b9ea": {
+      "1": "Provision for Bad and Doubtful Debts",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 15
+    },
+    "78cbe6b8-2eb3-41cc-a067-b3e5f1755433": {
+      "1": "Staff Welfare Expenses",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 20
+    },
+    "7be61e9f-6884-454e-b4a0-a34f26c3690f": {
+      "1": "Leave Encashment",
+      "3": "ac7176ec-0a05-4d33-b5de-cb65c76f1754",
+      "10": 4
+    },
+    "7c78dfed-8773-4670-a128-dc6258a0f02f": {
+      "1": "Gross Turnover ( General Trading / Manufactured Goods",
+      "3": "e7b52607-6784-455c-9611-92929f37bbc2"
+    },
+    "80818379-35f2-4d10-847c-1f5c2fa7e698": {
+      "1": "Rent Expenses for Employees ",
+      "3": "ac7176ec-0a05-4d33-b5de-cb65c76f1754",
+      "10": 6
+    },
+    "8379278d-f99f-4a3a-9ba1-77cca4ae7835": {
+      "1": "Conveyance Expenses",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 7
+    },
+    "84b064dc-941f-46c2-bbdf-66a387b1503b": {
+      "1": "Gifts",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 11
+    },
+    "8f58399e-25f6-4833-baef-6c6fb0122094": {
+      "1": "Gifts in connection with the use or exploitation of property",
+      "3": "15e2f5fe-9856-4ea7-a4ca-6191d580973a",
+      "10": 6
+    },
+    "910e2865-78fc-4da5-9120-701f8788980a": {
+      "1": "Natural Resource Reciepts",
+      "3": "15e2f5fe-9856-4ea7-a4ca-6191d580973a",
+      "10": 4
+    },
+    "962383fd-644a-418d-b089-a617762c3722": {
+      "1": "Realized Exchange Gain",
+      "3": "15e2f5fe-9856-4ea7-a4ca-6191d580973a",
+      "10": 8
+    },
+    "9e65f22d-c034-478e-8514-a9349c394b05": {
+      "1": "Consumption of Stores and Spare Parts",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 6
+    },
+    "a04118cb-ff8c-454d-b19c-750d3dbe55a7": {
+      "1": "Training Expenditure",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 25
+    },
+    "a2074503-ef92-4c72-ba60-4aa4bc34f258": {
+      "1": "Depreciation",
+      "3": "3932ff08-c927-46ee-be3a-7cf4d6494553",
+      "10": 5
+    },
+    "a31888ea-d715-4820-9a8e-91f04e5994c7": {
+      "1": "Consumables",
+      "3": "3932ff08-c927-46ee-be3a-7cf4d6494553",
+      "10": 4
+    },
+    "a8bb05dc-caa0-49b5-879c-72716a133c1a": {
+      "1": "Fuel and Power",
+      "3": "3932ff08-c927-46ee-be3a-7cf4d6494553",
+      "10": 2
+    },
+    "abd2a8b3-60f9-4992-b4a0-cf18eb5aebd8": {
+      "1": "Insurance",
+      "3": "29f9e445-53e6-4418-8fc7-8204dc55341c"
+    },
+    "ac9aadc2-293e-4201-a185-b3e1c6bd54ef": {
+      "1": "Salaries and Wages",
+      "3": "ac7176ec-0a05-4d33-b5de-cb65c76f1754",
+      "10": 1
+    },
+    "adba3d91-f552-48f7-b990-f8ec4594267b": {
+      "1": "Leave Travel Benefits ",
+      "3": "ac7176ec-0a05-4d33-b5de-cb65c76f1754",
+      "10": 5
+    },
+    "adce757d-6a5f-4deb-8d69-1bb3f2307c8a": {
+      "1": "Insurance Compensation",
+      "3": "15e2f5fe-9856-4ea7-a4ca-6191d580973a",
+      "10": 10
+    },
+    "b0ed331b-bb9c-471a-b2c7-bffa1f64071c": {
+      "1": "Direct Wages",
+      "3": "f0208755-3b7d-4eab-81b7-8576edb3fa52",
+      "10": 1
+    },
+    "b181fd15-389f-4cbf-a4cc-bc13618160f1": {
+      "1": "Management Fees",
+      "3": "d6317ca7-7085-4247-af39-e7412bdff75c",
+      "10": 4
+    },
+    "b5b688f6-c7ff-4327-9f46-359f827ac053": {
+      "1": "Commission",
+      "3": "15e2f5fe-9856-4ea7-a4ca-6191d580973a",
+      "10": 2
+    },
+    "b7573465-9c16-4004-936f-480c629b4c0a": {
+      "1": "Travelling Expenses including Foreign Travelling",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 26
+    },
+    "b8b7e774-83f6-4417-8343-6efb4f203450": {
+      "1": "Depreciation",
+      "3": "d6317ca7-7085-4247-af39-e7412bdff75c",
+      "10": 1
+    },
+    "bc9b34c0-0d06-4ed5-a2ee-3b3fb3563f81": {
+      "1": "Computer Expenses ",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 5
+    },
+    "bcdfc4fb-3446-4ba0-80ca-cc323537a0fb": {
+      "1": "Livestock, game and produce bought or received in exchange",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 28
+    },
+    "c58d97b0-ea18-4554-a6be-065678af4c78": {
+      "1": "Telephone Expenses",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 24
+    },
+    "c73a6328-8277-40be-8387-cf37d867ce51": {
+      "1": "Imports ",
+      "3": "a58ff9b9-f3f8-4590-b04a-39c1a18db9e3",
+      "10": 2
+    },
+    "ccc1b606-cbc8-4bb0-baf1-c2818128f934": {
+      "1": "Advertisement",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 1
+    },
+    "d90e9b98-a5c0-49c7-b238-a7ab134b77d0": {
+      "1": "Trading / Manufactured Goods (finished goods",
+      "3": "c507dd9d-0535-4224-8a6b-97b9605817f0"
+    },
+    "db6b41f8-a998-4f0b-90b7-c43bdd2fa828": {
+      "1": "Stationery & Printing",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 22
+    },
+    "db716f48-cc59-4792-bf24-3dc29889c0e1": {
+      "1": "Work in Progress ",
+      "3": "4a62acdc-e3c2-4963-9e96-e2fd514039d9"
+    },
+    "dc63da16-bb9f-4317-8d6d-7004cecfd725": {
+      "1": "Scientific Research Expenses",
+      "3": "d6317ca7-7085-4247-af39-e7412bdff75c",
+      "10": 3
+    },
+    "dec47c5c-7842-4759-9f8a-24b5649fe03d": {
+      "1": "Raw Materials ",
+      "3": "4a62acdc-e3c2-4963-9e96-e2fd514039d9"
+    },
+    "dee28c4b-3b2f-4bca-9786-e335ba98f05f": {
+      "1": "Interest Expense",
+      "3": "29f9e445-53e6-4418-8fc7-8204dc55341c"
+    },
+    "e1f9e987-1c6c-4be8-8858-1bb15fed5777": {
+      "1": "Hotel, Boarding and Lodging Expenses",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 12
+    },
+    "e30bd9b9-3bc4-4480-9aca-bfddd057e4ec": {
+      "1": "Work in Progress",
+      "3": "c507dd9d-0535-4224-8a6b-97b9605817f0"
+    },
+    "f96fa1b6-6201-404f-bcaa-0298822e01a0": {
+      "1": "Other Overheads",
+      "3": "3932ff08-c927-46ee-be3a-7cf4d6494553",
+      "10": 6
+    },
+    "fae3bff1-573f-48a1-9380-5b24857805d8": {
+      "1": "Rent Expenses for Premises ",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 16
+    },
+    "fda4c2a7-5c82-4cc5-aff0-fcdf6b1fbff4": {
+      "1": "Start up cost / Pre- Operating Expenses",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 21
+    },
+    "fff802b3-e7f6-4caf-b4bf-3eb67c7432ef": {
+      "1": "Legal Expenses",
+      "3": "b72083ad-f49c-493b-8504-31e5996f8d11",
+      "10": 13
+    }
+  },
+  "234d263d-cf0e-4e3e-85ca-ef899016e58a": {
+    "234d263d-cf0e-4e3e-85ca-ef899016e58a": {
+      "3": "a58ff9b9-f3f8-4590-b04a-39c1a18db9e3",
+      "10": 3
+    }
+  },
+  "1ae41f36-c83a-428c-be23-a99714110807": {
+    "1ae41f36-c83a-428c-be23-a99714110807": {
+      "3": "e7b52607-6784-455c-9611-92929f37bbc2"
+    }
+  },
+  "5770616c-0e01-46ca-a172-f7042275da6c": {
+    "15e2f5fe-9856-4ea7-a4ca-6191d580973a": {
+      "1": "Other Income",
+      "5": 4
+    },
+    "29f9e445-53e6-4418-8fc7-8204dc55341c": {
+      "1": " Financial Expenses",
+      "6": 1,
+      "5": 8
+    },
+    "2dbf719d-ca49-44ca-be4e-a8186b383e01": {
+      "1": "Cost of Sales",
+      "6": 1,
+      "5": 2
+    },
+    "3932ff08-c927-46ee-be3a-7cf4d6494553": {
+      "1": "Factory Overheads ",
+      "6": 2,
+      "3": "2dbf719d-ca49-44ca-be4e-a8186b383e01",
+      "5": 4
+    },
+    "4a62acdc-e3c2-4963-9e96-e2fd514039d9": {
+      "1": "Closing Stock",
+      "6": 2,
+      "3": "2dbf719d-ca49-44ca-be4e-a8186b383e01",
+      "5": 5
+    },
+    "6c701e06-578e-4b4d-a9d1-2197bbd43889": {
+      "1": "Dividend Declared",
+      "6": 1,
+      "5": 13
+    },
+    "78d1b896-ed3d-432b-9b09-1430177f3aba": {
+      "1": "Other Expenses",
+      "6": 1,
+      "5": 9
+    },
+    "91ceb6dc-c0cc-4fdd-b36f-67e3907591c2": {
+      "1": "Income Tax",
+      "6": 1,
+      "5": 11
+    },
+    "a58ff9b9-f3f8-4590-b04a-39c1a18db9e3": {
+      "1": "Purchase",
+      "6": 2,
+      "3": "2dbf719d-ca49-44ca-be4e-a8186b383e01",
+      "5": 2
+    },
+    "ac7176ec-0a05-4d33-b5de-cb65c76f1754": {
+      "1": "Employment Expenses",
+      "6": 1,
+      "5": 7
+    },
+    "b72083ad-f49c-493b-8504-31e5996f8d11": {
+      "1": "Operating Expense",
+      "6": 1,
+      "5": 5
+    },
+    "c507dd9d-0535-4224-8a6b-97b9605817f0": {
+      "1": "Opening Stock",
+      "6": 2,
+      "3": "2dbf719d-ca49-44ca-be4e-a8186b383e01",
+      "5": 1
+    },
+    "d6317ca7-7085-4247-af39-e7412bdff75c": {
+      "1": "Administrative Expenses",
+      "6": 1,
+      "5": 6
+    },
+    "e7b52607-6784-455c-9611-92929f37bbc2": {
+      "1": "Gross Turnover of Business or Profession",
+      "5": 1
+    },
+    "f0208755-3b7d-4eab-81b7-8576edb3fa52": {
+      "1": "Other Direct Costs",
+      "6": 2,
+      "3": "2dbf719d-ca49-44ca-be4e-a8186b383e01",
+      "5": 3
     }
   },
   "91c2bcbb-1f8c-4aa1-82fd-0ab38c97fb14": {
-    "b755a3ef-32aa-4eab-8936-0e48b057f627": {
-      "1": "Concept BTW Aangifte",
-      "16": 1,
+    "96189478-8da8-4896-8e21-a43e9860e0d9": {
+      "1": "Kenya",
       "17": [
-        {
-          "5": [
-            {
-              "1": "Bedrag waarover omzetbelasting wordt berekend"
-            }
-          ],
-          "6": [
-            {
-              "1": "Omzetbelasting"
-            }
-          ]
-        },
-        {
-          "4": "1 Prestaties binnenland\n--------------"
-        },
-        {
-          "4": "1a Leveringen/diensten belast met hoog tarief",
-          "5": [
-            {
-              "9": "33855cc4-964b-44d1-be27-cf268b0ad77d",
-              "4": 1
-            }
-          ],
-          "6": [
-            {
-              "9": "33855cc4-964b-44d1-be27-cf268b0ad77d"
-            }
-          ]
-        },
-        {
-          "4": "1b Leveringen/diensten belast met laag tarief",
-          "5": [
-            {
-              "9": "ad40e782-1f1c-486a-91a4-266e7001c8b3",
-              "4": 1
-            },
-            {
-              "9": "31dce658-cff1-4212-870b-5fd04cb83b1c",
-              "4": 1
-            }
-          ],
-          "6": [
-            {
-              "9": "ad40e782-1f1c-486a-91a4-266e7001c8b3"
-            },
-            {
-              "9": "31dce658-cff1-4212-870b-5fd04cb83b1c"
-            }
-          ]
-        },
-        {
-          "4": "1c Leveringen/diensten belast met overige tarieven, behalve 0%"
-        },
-        {
-          "4": "1d Privégebruik",
-          "6": [
-            {
-              "9": "9f2d06f9-0e16-4192-afa3-bff747910088"
-            }
-          ]
-        },
-        {
-          "4": "1e Leveringen/diensten belast met 0% of niet bij u belast",
-          "5": [
-            {
-              "9": "c6b298fa-f994-47ac-b6c0-3299fbac8306",
-              "4": 2
-            },
-            {
-              "9": "ad18e082-df57-44f9-8fd0-ab3c5275d230",
-              "4": 2
-            }
-          ]
-        },
-        {
-          "4": "2 Verleggingsregelingen binnenland\n--------------"
-        },
-        {
-          "4": "2a Leveringen/diensten waarbij de heffing van omzetbelasting naar u is verlegd",
-          "5": [
-            {
-              "9": "ce2c6c96-4364-42a8-8cf3-8315d1a4b246",
-              "4": 4
-            },
-            {
-              "9": "e5f20470-dffa-4453-a0a9-42a403c04e23",
-              "4": 4
-            },
-            {
-              "9": "dd28f171-7422-44a3-937a-432e8d2970ea",
-              "4": 4
-            },
-            {
-              "9": "ad18e082-df57-44f9-8fd0-ab3c5275d230",
-              "4": 5
-            }
-          ],
-          "6": [
-            {
-              "9": "ce2c6c96-4364-42a8-8cf3-8315d1a4b246",
-              "4": 3
-            },
-            {
-              "9": "e5f20470-dffa-4453-a0a9-42a403c04e23",
-              "4": 3
-            },
-            {
-              "9": "dd28f171-7422-44a3-937a-432e8d2970ea",
-              "4": 3
-            }
-          ]
-        },
-        {
-          "4": "3 Prestaties naar of in het buitenland\n--------------"
-        },
-        {
-          "4": "3a Leveringen naar landen buiten de EU (uitvoer)",
-          "5": [
-            {
-              "9": "3a57686a-7ce6-43e7-aa2a-dc5e98ad931b",
-              "4": 1
-            },
-            {
-              "9": "bddb4876-fd25-49bf-ac71-5365878268ef",
-              "4": 1
-            },
-            {
-              "9": "815852ae-5a5d-4688-aa9b-0b06f3982ef2",
-              "4": 1
-            },
-            {
-              "9": "75eaae26-98a4-4e1a-9d75-91bf2b7e7b11",
-              "4": 2
-            }
-          ]
-        },
-        {
-          "4": "3b Leveringen naar of diensten in landen binnen de EU",
-          "5": [
-            {
-              "9": "93cdbadc-4a15-41ff-bf68-4ed927915680",
-              "4": 1
-            },
-            {
-              "9": "1f681bc9-93fd-4e09-815f-2f1c6bc5044b",
-              "4": 1
-            },
-            {
-              "9": "4d895b0c-a40c-44ff-b441-9620c7619699",
-              "4": 1
-            },
-            {
-              "9": "d0eca2ec-e9da-40de-9be6-e2e9fb34269a",
-              "4": 2
-            }
-          ]
-        },
-        {
-          "4": "3c Installatie/afstandsverkopen binnen de EU"
-        },
-        {
-          "4": "4 Prestaties vanuit het buitenland aan u verricht\n--------------"
-        },
-        {
-          "4": "4a Leveringen/diensten uit landen buiten de EU",
-          "5": [
-            {
-              "9": "3a57686a-7ce6-43e7-aa2a-dc5e98ad931b",
-              "4": 4
-            },
-            {
-              "9": "bddb4876-fd25-49bf-ac71-5365878268ef",
-              "4": 4
-            },
-            {
-              "9": "815852ae-5a5d-4688-aa9b-0b06f3982ef2",
-              "4": 4
-            },
-            {
-              "9": "75eaae26-98a4-4e1a-9d75-91bf2b7e7b11",
-              "4": 5
-            }
-          ],
-          "6": [
-            {
-              "9": "3a57686a-7ce6-43e7-aa2a-dc5e98ad931b",
-              "4": 3
-            },
-            {
-              "9": "bddb4876-fd25-49bf-ac71-5365878268ef",
-              "4": 3
-            },
-            {
-              "9": "815852ae-5a5d-4688-aa9b-0b06f3982ef2",
-              "4": 3
-            }
-          ]
-        },
-        {
-          "4": "4b Leveringen/diensten uit landen binnen de EU",
-          "5": [
-            {
-              "9": "93cdbadc-4a15-41ff-bf68-4ed927915680",
-              "4": 4
-            },
-            {
-              "9": "1f681bc9-93fd-4e09-815f-2f1c6bc5044b",
-              "4": 4
-            },
-            {
-              "9": "4d895b0c-a40c-44ff-b441-9620c7619699",
-              "4": 4
-            },
-            {
-              "9": "d0eca2ec-e9da-40de-9be6-e2e9fb34269a",
-              "4": 5
-            }
-          ],
-          "6": [
-            {
-              "9": "93cdbadc-4a15-41ff-bf68-4ed927915680",
-              "4": 3
-            },
-            {
-              "9": "1f681bc9-93fd-4e09-815f-2f1c6bc5044b",
-              "4": 3
-            },
-            {
-              "9": "4d895b0c-a40c-44ff-b441-9620c7619699",
-              "4": 3
-            }
-          ]
-        },
-        {
-          "4": "5 Voorbelasting en kleineondernemersregeling\n--------------"
-        },
-        {
-          "4": "5a Omzetbelasting (rubrieken 1 t/m 4",
-          "6": [
-            {
-              "9": "33855cc4-964b-44d1-be27-cf268b0ad77d"
-            },
-            {
-              "9": "93cdbadc-4a15-41ff-bf68-4ed927915680"
-            },
-            {
-              "9": "3a57686a-7ce6-43e7-aa2a-dc5e98ad931b"
-            },
-            {
-              "9": "ce2c6c96-4364-42a8-8cf3-8315d1a4b246"
-            },
-            {
-              "9": "ad40e782-1f1c-486a-91a4-266e7001c8b3"
-            },
-            {
-              "9": "bddb4876-fd25-49bf-ac71-5365878268ef"
-            },
-            {
-              "9": "1f681bc9-93fd-4e09-815f-2f1c6bc5044b"
-            },
-            {
-              "9": "e5f20470-dffa-4453-a0a9-42a403c04e23"
-            },
-            {
-              "9": "31dce658-cff1-4212-870b-5fd04cb83b1c"
-            },
-            {
-              "9": "4d895b0c-a40c-44ff-b441-9620c7619699"
-            },
-            {
-              "9": "815852ae-5a5d-4688-aa9b-0b06f3982ef2"
-            },
-            {
-              "9": "dd28f171-7422-44a3-937a-432e8d2970ea"
-            },
-            {
-              "9": "9f2d06f9-0e16-4192-afa3-bff747910088"
-            }
-          ]
-        },
-        {
-          "4": "5b Voorbelasting",
-          "6": [
-            {
-              "9": "33855cc4-964b-44d1-be27-cf268b0ad77d",
-              "4": 3
-            },
-            {
-              "9": "93cdbadc-4a15-41ff-bf68-4ed927915680",
-              "4": 3
-            },
-            {
-              "9": "3a57686a-7ce6-43e7-aa2a-dc5e98ad931b",
-              "4": 3
-            },
-            {
-              "9": "ce2c6c96-4364-42a8-8cf3-8315d1a4b246",
-              "4": 3
-            },
-            {
-              "9": "ad40e782-1f1c-486a-91a4-266e7001c8b3",
-              "4": 3
-            },
-            {
-              "9": "1f681bc9-93fd-4e09-815f-2f1c6bc5044b",
-              "4": 3
-            },
-            {
-              "9": "bddb4876-fd25-49bf-ac71-5365878268ef",
-              "4": 3
-            },
-            {
-              "9": "e5f20470-dffa-4453-a0a9-42a403c04e23",
-              "4": 3
-            },
-            {
-              "9": "31dce658-cff1-4212-870b-5fd04cb83b1c",
-              "4": 3
-            },
-            {
-              "9": "4d895b0c-a40c-44ff-b441-9620c7619699",
-              "4": 3
-            },
-            {
-              "9": "815852ae-5a5d-4688-aa9b-0b06f3982ef2",
-              "4": 3
-            },
-            {
-              "9": "dd28f171-7422-44a3-937a-432e8d2970ea",
-              "4": 3
-            },
-            {
-              "9": "9f2d06f9-0e16-4192-afa3-bff747910088",
-              "4": 3
-            }
-          ]
-        },
-        {
-          "4": "5c Subtotaal (rubriek 5a min 5b)",
-          "6": [
-            {
-              "9": "33855cc4-964b-44d1-be27-cf268b0ad77d",
-              "4": 6
-            },
-            {
-              "9": "93cdbadc-4a15-41ff-bf68-4ed927915680",
-              "4": 6
-            },
-            {
-              "9": "3a57686a-7ce6-43e7-aa2a-dc5e98ad931b",
-              "4": 6
-            },
-            {
-              "9": "ce2c6c96-4364-42a8-8cf3-8315d1a4b246",
-              "4": 6
-            },
-            {
-              "9": "ad40e782-1f1c-486a-91a4-266e7001c8b3",
-              "4": 6
-            },
-            {
-              "9": "1f681bc9-93fd-4e09-815f-2f1c6bc5044b",
-              "4": 6
-            },
-            {
-              "9": "bddb4876-fd25-49bf-ac71-5365878268ef",
-              "4": 6
-            },
-            {
-              "9": "e5f20470-dffa-4453-a0a9-42a403c04e23",
-              "4": 6
-            },
-            {
-              "9": "31dce658-cff1-4212-870b-5fd04cb83b1c",
-              "4": 6
-            },
-            {
-              "9": "4d895b0c-a40c-44ff-b441-9620c7619699",
-              "4": 6
-            },
-            {
-              "9": "815852ae-5a5d-4688-aa9b-0b06f3982ef2",
-              "4": 6
-            },
-            {
-              "9": "dd28f171-7422-44a3-937a-432e8d2970ea",
-              "4": 6
-            },
-            {
-              "9": "9f2d06f9-0e16-4192-afa3-bff747910088",
-              "4": 6
-            }
-          ]
-        }
+        {}
       ],
       "19": [
         {}
@@ -449,96 +695,104 @@
   },
   "a9a71e47-82b3-49db-8aec-898adb460a80": {
     "a9a71e47-82b3-49db-8aec-898adb460a80": {
-      "1": 297
+      "1": 308
+    }
+  },
+  "9601ce49-6058-4dac-9405-82f35005ea90": {
+    "05ded2d9-fc62-4132-8c89-d243771fb767": {
+      "1": "Profit / Surplus / (Loss) before Tax",
+      "3": 10
+    },
+    "a2e4c5c2-9804-4b2e-9fc4-a36cb1a4e261": {
+      "1": "Profit / Surplus / (Loss) after Tax",
+      "3": 12
+    },
+    "b8ea4e3d-9fd9-46f8-bf4c-42f1f3fc01f6": {
+      "1": "Gross Profit / Surplus",
+      "3": 3
+    },
+    "eea2e342-48ab-48f4-944b-e33e4b0da0ca": {
+      "1": "Profit / Surplus / (Loss) after Tax & Dividends carried to Balance Sheet",
+      "3": 14
     }
   },
   "ac789d1f-034f-4964-a8b5-ebfffc3511f2": {
-    "ac789d1f-034f-4964-a8b5-ebfffc3511f2": {}
+    "ac789d1f-034f-4964-a8b5-ebfffc3511f2": {
+      "2": true,
+      "44": true,
+      "45": true,
+      "35": true,
+      "43": true,
+      "9": true,
+      "14": true,
+      "4": true,
+      "17": true,
+      "3": true,
+      "5": true,
+      "38": true,
+      "46": true,
+      "10": true,
+      "15": true,
+      "39": true,
+      "7": true,
+      "6": true,
+      "20": true,
+      "32": true,
+      "47": true,
+      "11": true,
+      "33": true,
+      "21": true,
+      "22": true,
+      "18": true,
+      "19": true,
+      "12": true,
+      "41": true,
+      "27": true,
+      "42": true,
+      "26": true,
+      "30": true,
+      "31": true,
+      "16": true,
+      "40": true
+    }
   },
   "7f368d97-8b7f-4b39-b156-dc66afd9496a": {
-    "1f681bc9-93fd-4e09-815f-2f1c6bc5044b": {
-      "1": "BTW 6% EU",
-      "11": true,
-      "12": 6.0
-    },
-    "31dce658-cff1-4212-870b-5fd04cb83b1c": {
-      "1": "BTW 9%",
+    "040fbd66-f0b4-4daa-b096-f1a5b7c7b467": {
+      "1": "VAT 8%",
       "5": 2,
-      "4": 9.0,
-      "7": "6ae01b5d-70fd-42ab-9a4c-cd9ad76c5f71"
+      "4": 8.0,
+      "2": [
+        {}
+      ],
+      "13": true,
+      "14": "TAX INVOICE"
     },
-    "33855cc4-964b-44d1-be27-cf268b0ad77d": {
-      "1": "BTW 21%",
+    "214ed310-cb5a-47d7-9d13-402bec2eff52": {
+      "1": "VAT Zero Rated",
+      "2": [
+        {}
+      ],
+      "13": true,
+      "14": "TAX INVOICE"
+    },
+    "8148bbf9-e73e-4e7c-aaf4-4b23d9658d9e": {
+      "1": "VAT 16%",
       "5": 2,
-      "4": 21.0,
-      "7": "6ae01b5d-70fd-42ab-9a4c-cd9ad76c5f71"
+      "4": 16.0,
+      "2": [
+        {}
+      ],
+      "13": true,
+      "14": "TAX INVOICE",
+      "16": ""
     },
-    "3a57686a-7ce6-43e7-aa2a-dc5e98ad931b": {
-      "1": "BTW 21% non-EU",
-      "11": true,
-      "12": 21.0
-    },
-    "4d895b0c-a40c-44ff-b441-9620c7619699": {
-      "1": "BTW 9% EU",
-      "11": true,
-      "12": 9.0
-    },
-    "75eaae26-98a4-4e1a-9d75-91bf2b7e7b11": {
-      "1": "BTW 0% non-EU",
-      "7": "6ae01b5d-70fd-42ab-9a4c-cd9ad76c5f71"
-    },
-    "815852ae-5a5d-4688-aa9b-0b06f3982ef2": {
-      "1": "BTW 9% non-EU",
-      "11": true,
-      "12": 9.0
-    },
-    "93cdbadc-4a15-41ff-bf68-4ed927915680": {
-      "1": "BTW 21% EU",
-      "11": true,
-      "12": 21.0
-    },
-    "9f2d06f9-0e16-4192-afa3-bff747910088": {
-      "1": "BTW privégebruik",
-      "5": 1,
-      "7": "6ae01b5d-70fd-42ab-9a4c-cd9ad76c5f71"
-    },
-    "ad18e082-df57-44f9-8fd0-ab3c5275d230": {
-      "1": "BTW 0% verlegd",
-      "7": "6ae01b5d-70fd-42ab-9a4c-cd9ad76c5f71"
-    },
-    "ad40e782-1f1c-486a-91a4-266e7001c8b3": {
-      "1": "BTW 6%",
-      "5": 2,
-      "4": 6.0,
-      "7": "6ae01b5d-70fd-42ab-9a4c-cd9ad76c5f71"
-    },
-    "bddb4876-fd25-49bf-ac71-5365878268ef": {
-      "1": "BTW 6% non-EU",
-      "11": true,
-      "12": 6.0
-    },
-    "c6b298fa-f994-47ac-b6c0-3299fbac8306": {
-      "1": "BTW 0% vrijgesteld",
-      "7": "6ae01b5d-70fd-42ab-9a4c-cd9ad76c5f71"
-    },
-    "ce2c6c96-4364-42a8-8cf3-8315d1a4b246": {
-      "1": "BTW 21% verlegd",
-      "11": true,
-      "12": 21.0
-    },
-    "d0eca2ec-e9da-40de-9be6-e2e9fb34269a": {
-      "1": "BTW 0% EU",
-      "7": "6ae01b5d-70fd-42ab-9a4c-cd9ad76c5f71"
-    },
-    "dd28f171-7422-44a3-937a-432e8d2970ea": {
-      "1": "BTW 9% verlegd",
-      "11": true,
-      "12": 9.0
-    },
-    "e5f20470-dffa-4453-a0a9-42a403c04e23": {
-      "1": "BTW 6% verlegd",
-      "11": true,
-      "12": 6.0
+    "c0b80d95-858f-4fcd-b829-f58ff4a41ed2": {
+      "1": "VAT (Exempt)",
+      "2": [
+        {}
+      ],
+      "13": true,
+      "14": "TAX INVOICE"
     }
   },
   "68e0d57b-4a59-453e-b8d4-6166f097eacd": {
